@@ -1,5 +1,7 @@
 = Elasticsearch
 
+image:https://api.codacy.com/project/badge/Grade/564c640b86df45d4895b6652c3836c30[link="https://app.codacy.com/gh/mike22664/elasticsearch?utm_source=github.com&utm_medium=referral&utm_content=mike22664/elasticsearch&utm_campaign=Badge_Grade_Settings"]
+
 Elasticsearch is the distributed, RESTful search and analytics engine at the
 heart of the https://www.elastic.co/products[Elastic Stack]. You can use
 Elasticsearch to store, search, and manage data for:
